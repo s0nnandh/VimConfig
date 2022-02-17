@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/sniper'
+let g:netrw_dirhist_0='/home/sniper/Documents'
+let g:netrw_dirhist_9='/home/sniper'
+let g:netrw_dirhist_8='/home/sniper/Documents/cp/CF/cir21'
+let g:netrw_dirhist_7='/home/sniper/Documents/cp/CF'
+let g:netrw_dirhist_6='/home/sniper/Documents/cp'
+let g:netrw_dirhist_5='/home/sniper/Documents'
+let g:netrw_dirhist_4='/home/sniper/Documents/Sem6'
+let g:netrw_dirhist_3='/home/sniper/Documents'
+let g:netrw_dirhist_2='/home/sniper'
